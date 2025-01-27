@@ -1,4 +1,4 @@
-local localLibrary = loadstring(game:GetObjects("rbxassetid://11696859404")[1].Source)()
+local localLibrary = loadstring(game:GetObjects("rbxassetid://14007782187")[1].Source)()
 local Wait = localLibrary.subs.Wait
 
 local PepsisWorld = localLibrary:CreateWindow({
